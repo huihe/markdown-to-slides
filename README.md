@@ -8,7 +8,7 @@ Basically, Markdown to slides uses [remark](https://github.com/gnab/remark) to c
 
 The **produced HTML file is standalone** and can be copied, send by mail, ...
 
-If you want to have an idea of what remark does, take a look at the [demo page](http://remarkjs.com/#1).
+If you want to have an idea of what remark does, take a look at the [demo page](https://remarkjs.com/#1).
 
 The **presenter mode** is a great feature, have you tried to press 'P' on the demo page ?
 
